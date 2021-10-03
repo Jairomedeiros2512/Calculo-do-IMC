@@ -1,0 +1,36 @@
+span {
+    color: blue;
+    font-weight: bold;
+}
+input {
+    background-color: bisque;
+}
+
+div.letter {
+    border: 1px rgb(0, 0, 0) solid;
+    min-height: 100px;
+    margin: 40px 30px 30px;
+}
+
+h1 {
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #990000;
+    color: #fff;
+    width: calc(100% + 20px);
+
+    position: relative;
+    left: -10px;
+
+}
+
+h1::before {
+    content: '';
+    position: absolute;
+    left: 0px;
+    top: -10px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: transparent #7c0000 #7c0000 transparent; 
+
+}
