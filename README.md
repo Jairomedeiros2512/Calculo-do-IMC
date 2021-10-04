@@ -7,7 +7,7 @@ Aluno: Jairo Medeiros Silva
 
 Professor: Emilio Murta Resende
 
-## PROJETO WEB DEVELOPER
+## DESENVOLVIMENTO DE APP WEB SIMPLES
 
     Desenvolva um app simples, conforme o último slide da primeira aula.
     Pode ser entregue o ZIP ou o link para o repositório do github
