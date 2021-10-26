@@ -27,5 +27,5 @@ IMC = Peso / Altura²
       Sobrepeso, quando o resultado está entre 24,9 e 30 kg/m2;
       Obesidade, quando o resultado é maior que 30 kg/m2;
 ## Resultado
-   https://jairomedeiros2512.github.io/Calculo-do-IMC/
+   https://jairomedeiros2512.github.io/FSD02-Calculo-do-IMC/
 
