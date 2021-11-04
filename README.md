@@ -7,9 +7,12 @@
 
 ## MBA FULL STACK DEVELOPER
 
-### Web Development
-### Professora: Emilio Murta Resende
-### Aluno: Jairo Medeiros Silva
+### Aula:
+    Web Development
+### Professor: 
+    Emilio Murta Resende
+### Aluno: 
+    Jairo Medeiros Silva
 
 ---
 ### Projeto Desenvolvimento de APP Web Simples
